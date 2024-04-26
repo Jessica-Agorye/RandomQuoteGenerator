@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+.quote-box {
+  width: 40%;
+  height: 200px;
+  border: 2px grey solid;
+  padding: 20px;
+  margin: 40px auto;
+  /* background-color: black;
+  color: white; */
+}
+
+.p1 {
+  font-size: large;
+}
+
+.p2 {
+  font-size: large;
+  font-weight: bold;
+}
+
+.btn-sec {
+  display: flex;
+  gap: 10px;
+}
+
+.btn-sec > button {
+  background-color: greenyellow;
+  padding: 4px 12px;
+  font-size: small;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+}
