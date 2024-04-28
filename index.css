@@ -5,11 +5,10 @@ h1 {
 .quote-box {
   width: 40%;
   height: 200px;
-  border: 2px grey solid;
+  border: 4px black solid;
   padding: 20px;
   margin: 40px auto;
-  /* background-color: black;
-  color: white; */
+  border-radius: 10px;
 }
 
 .p1 {
@@ -17,7 +16,7 @@ h1 {
 }
 
 .p2 {
-  font-size: large;
+  font-size: medium;
   font-weight: bold;
 }
 
